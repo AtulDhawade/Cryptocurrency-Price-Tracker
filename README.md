@@ -3,7 +3,7 @@
 ###  Download GitHub repo
 
 ```
-git clone https://github.com/dataprofessor/binance
+git clone (https://github.com/AtulDhawade/Cryptocurrency-Price-Tracker)
 ```
 
 ###  Pip install libraries
